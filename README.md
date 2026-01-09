@@ -2,7 +2,7 @@
 <!--  -->
 
 ## 💫 About Me
-No se
+I'm a hobbyist developer who loves learning and building projects. I enjoy working with Java, CSS, and PowerShell, and I'm always exploring new tools and ideas.
 
 ## 🌐 Socials
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/azl_xz)
